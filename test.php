@@ -1,2 +1,2 @@
-<?php echo "Hello World";
+<?php echo "Hello World"; //this is a comment
 ?>
