@@ -1,0 +1,11 @@
+{
+  "id": 101,
+  "name": "Alice Johnson",
+  "is_active": true,
+  "roles": ["Admin", "Editor"],
+  "location": {
+    "city": "Seattle",
+    "zip_code": 98101
+  },
+  "social_links": null
+}
