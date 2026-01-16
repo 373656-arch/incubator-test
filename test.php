@@ -8,3 +8,8 @@ while ($x < 10) {
 // this is a comment
 echo "x is 10";
 ?>
+
+<?php
+//Tyler said this
+
+?>
